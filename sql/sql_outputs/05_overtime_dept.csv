@@ -1,0 +1,7 @@
+Department,OverTime,n_emp,n_left,attrition_pct
+"Human Resources",No,46,7,15.22
+"Human Resources",Yes,17,5,29.41
+"Research & Development",No,690,59,8.55
+"Research & Development",Yes,271,74,27.31
+Sales,No,318,44,13.84
+Sales,Yes,128,48,37.5
